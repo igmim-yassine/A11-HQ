@@ -1,4 +1,7 @@
-# Flights-competition
+# A11-HQ
+We are two students from **EMINES - School of industrial Management**, Data Science Minor, and this is our repo including the Data Gathering, preprocessing and modelization for the **Flights Competiton** organized by **Outcoder** and **Ecole Polytechnique (X)**
+
+# Flights competition
 The Task
 The goal of the challenge is to predict the number of passengers per plane on some flights in the US. The data is provided to us by a single company. This is a supervised regression problem.
 
@@ -22,3 +25,6 @@ The main difficulty of the challenge is the limited number of information per fl
 Scoring
 The performance of the prediction will be quantified on left-out data, using the RMSE (Root Mean Squared Error).
 The test data is available under the same format as the training data, minus the target column.
+
+**Yassine BENIGUEMIM**
+**Mohamed Taha EL BOUHALI**
