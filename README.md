@@ -1,5 +1,5 @@
 # A11-HQ
-We are two students from **EMINES - School of industrial Management**, Data Science Minor, and this is our repo including the Data Gathering, preprocessing and modelization for the **Flights Competiton** organized by **Outcoder** and **Ecole Polytechnique (X)**
+We are two students from **EMINES - School of industrial Management**, Data Science Minor, and this is our repo including the Data Gathering, Preprocessing and Modelization for the **Flights Competiton** organized by **Outcoder** and **Ecole Polytechnique (X)**
 
 # Flights competition
 The Task
