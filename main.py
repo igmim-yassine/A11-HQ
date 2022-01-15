@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 # Loading initial data
 
 print('Loading initial datasets...')
-to_predict = pd.read_csv("flights_topredict.csv")
+to_predict = pd.read_csv("flights_Xtest.csv")
 data = pd.read_csv("flights_train.csv")
 
 # Loading external data
