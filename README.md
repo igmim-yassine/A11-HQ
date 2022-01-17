@@ -26,6 +26,8 @@ Scoring
 The performance of the prediction will be quantified on left-out data, using the RMSE (Root Mean Squared Error).
 The test data is available under the same format as the training data, minus the target column.
 
+Link to the competition : https://competitions.outcoder.ai/competitions/flights
+
 **Yassine BENIGUEMIM**
 
 **Mohamed Taha EL BOUHALI**
