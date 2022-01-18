@@ -29,5 +29,4 @@ The test data is available under the same format as the training data, minus the
 Link to the competition : https://competitions.outcoder.ai/competitions/flights
 
 **Yassine BENIGUEMIM**
-
 **Mohamed Taha EL BOUHALI**
